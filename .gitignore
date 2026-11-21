@@ -1,0 +1,7 @@
+/target/
+/old/
+/extracted/
+/decompiled/
+*.jar
+highscores*.json
+.DS_Store
